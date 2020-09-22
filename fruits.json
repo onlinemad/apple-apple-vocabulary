@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "stopword": "是"
+  },
+  "apple": "蘋果",
+  "banana": "香蕉",
+  "cherry": "櫻桃",
+  "coconut": "椰子",
+  "grape": "葡萄",
+  "guava": "芭樂",
+  "kiwi": "奇異果",
+  "lemon": "檸檬",
+  "mango": "芒果",
+  "orange": "柳橙",
+  "papaya": "木瓜",
+  "peach": "桃子",
+  "pear": "梨子",
+  "pineapple": "鳳梨",
+  "pumpkin": "南瓜",
+  "strawberry": "草莓",
+  "tomato": "番茄",
+  "watermelon": "西瓜"
+}
